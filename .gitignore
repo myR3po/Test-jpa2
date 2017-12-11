@@ -1,0 +1,15 @@
+*.class
+
+target
+
+.settings
+
+*.log
+
+*.jar
+
+hs_err_pid*
+
+.classpath
+
+.project
